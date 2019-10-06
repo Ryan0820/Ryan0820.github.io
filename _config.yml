@@ -8,8 +8,8 @@
 # Site settings
 title: 小飞侠的库存
 brief-intro: All Coder
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://643435675.github.io" # the base hostname & protocol for your site
+baseurl: "https://Ryan0820.github.io" # the subpath of your site, e.g. /blog
+url: "https://Ryan0820.github.io" # the base hostname & protocol for your site
 
 permalink: /:year/:month/:day/:title/
 
